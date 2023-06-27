@@ -1,4 +1,4 @@
-### Hi there 👋
+### <div align="center">Hi, I'm a Flutter developer. Welcome to my Github page</div>  
 
 <!--
 **nimahedayati/nimahedayati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
